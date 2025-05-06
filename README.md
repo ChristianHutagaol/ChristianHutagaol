@@ -2,8 +2,8 @@
 
 
 ![ChristianHutagaol](img/Me.png)
-`#000000`
-`rgb(11, 85, 170)`
+
+![GifGreetings](https://tenor.com/view/persona-persona-4-naoto-anime-hello-anime-gif-3820527709701372563.gif)
 
 <!--
 **ChristianHutagaol/ChristianHutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
