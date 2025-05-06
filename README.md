@@ -3,8 +3,8 @@
 
 ![ChristianHutagaol](img/Banner.png)
 
-![GifGreetings](https://tenor.com/view/anime-greetings-cute-gif-14655909.gif)
 
+<div align="center"><img src="https://tenor.com/view/anime-greetings-cute-gif-14655909.gif"></div>
 ## Hello World! ✌️
 
 I am a Computer Science student with a keen interest in the Internet of Things (IoT) 🖥️. I have worked on several projects focused on developing IoT systems, from automation to real-time data processing 😄
@@ -26,6 +26,16 @@ I am a Computer Science student with a keen interest in the Internet of Things (
 
 #### 🐈‍⬛ Github Stats
 ![Christian Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianHutagaol&show_icons=true&theme=blue-green)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 
 
 <!--
