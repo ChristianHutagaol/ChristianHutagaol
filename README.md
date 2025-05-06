@@ -24,8 +24,8 @@ I am a Computer Science student with a keen interest in the Internet of Things (
 
 
 
-##### 🐈‍⬛ Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green_icons=true)
+<!-- ##### 🐈‍⬛ Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green_icons=true) -->
 
 
 <!--
