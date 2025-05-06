@@ -3,6 +3,8 @@
 
 ![ChristianHutagaol](img/Banner.png)
 
+- 🌱 I’m currently learning Python
+,clmdvmldmv
 <div style="text-align: center;">
   <img src="https://tenor.com/view/anime-greetings-cute-gif-14655909.gif" alt="Deskripsi" style="max-width: 100%; height: auto; width:100%">
 </div>
@@ -20,6 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Python
-,clmdvmldmv
+
 
