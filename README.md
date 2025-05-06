@@ -3,8 +3,9 @@
 
 ![ChristianHutagaol](img/Banner.png)
 
-![GifGreetings](https://tenor.com/view/anime-greetings-cute-gif-14655909.gif)
-
+<div style="text-align: center;">
+  <img src="https://tenor.com/view/anime-greetings-cute-gif-14655909.gif" alt="Deskripsi" style="max-width: 100%; height: auto;">
+</div>
 <!--
 **ChristianHutagaol/ChristianHutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
