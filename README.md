@@ -11,7 +11,7 @@ I am a Computer Science student with a keen interest in the Internet of Things (
 
 🔭 I am currently trying to enter the world of Full Stack Developer 🤔
 
-📡 I’m looking for a job, so invited me if there are a Project, that need to be solved 😄 
+📡 I’m looking for a job too, so invited me if there are a Project, that need to be solved 😄 
 
 ##### 🌱 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css)](https://skillicons.dev)
@@ -24,8 +24,8 @@ I am a Computer Science student with a keen interest in the Internet of Things (
 
 
 
-<!-- ##### 🐈‍⬛ Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green_icons=true) -->
+##### 🐈‍⬛ Github Stats
+![Christian Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianHutagaol&show_icons=true&theme=blue-green)
 
 
 <!--
