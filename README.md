@@ -3,11 +3,8 @@
 
 ![ChristianHutagaol](img/Banner.png)
 
-- 🌱 I’m currently learning Python
-,clmdvmldmv
-<div style="text-align: center;">
-  <img src="https://tenor.com/view/anime-greetings-cute-gif-14655909.gif" alt="Deskripsi" style="max-width: 100%; height: auto; width:100%">
-</div>
+![GifGreetings](https://tenor.com/view/anime-greetings-cute-gif-14655909.gif)
+
 <!--
 **ChristianHutagaol/ChristianHutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🌱 I’m currently learning Python
 
