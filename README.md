@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-![ChristianHutagaol](img/Me.png)
+![ChristianHutagaol](img/Banner.png)
 
 ![GifGreetings](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl5bjRtb203Ymdlanp0Zjc3YmkyNTI4bWhqeTZsd2d2YTVpZGR1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif)
 
