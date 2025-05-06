@@ -24,12 +24,7 @@ I am a Computer Science student with a keen interest in the Internet of Things (
 [![My Skills](https://skillicons.dev/icons?i=vscode,arduino,pycharm)](https://skillicons.dev)
 
 #### 🐈‍⬛ Github Stats
-![Christian Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianHutagaol&show_icons=true&theme=blue-green)
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianHutagaol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![Christian Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianHutagaol&show_icons=true&theme=blue-green) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianHutagaol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph-dark.svg">
