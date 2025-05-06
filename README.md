@@ -3,7 +3,7 @@
 
 ![ChristianHutagaol](img/Banner.png)
 
-![GifGreetings](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl5bjRtb203Ymdlanp0Zjc3YmkyNTI4bWhqeTZsd2d2YTVpZGR1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif)
+![GifGreetings](https://tenor.com/view/anime-greetings-cute-gif-14655909.gif)
 
 <!--
 **ChristianHutagaol/ChristianHutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
+
+
