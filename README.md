@@ -5,6 +5,7 @@
 
 
 <div align="center"><img src="https://tenor.com/view/anime-greetings-cute-gif-14655909.gif"></div>
+
 ## Hello World! ✌️
 
 I am a Computer Science student with a keen interest in the Internet of Things (IoT) 🖥️. I have worked on several projects focused on developing IoT systems, from automation to real-time data processing 😄
@@ -22,11 +23,13 @@ I am a Computer Science student with a keen interest in the Internet of Things (
 #### 💽 Platform
 [![My Skills](https://skillicons.dev/icons?i=vscode,arduino,pycharm)](https://skillicons.dev)
 
-
-
 #### 🐈‍⬛ Github Stats
 ![Christian Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianHutagaol&show_icons=true&theme=blue-green)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianHutagaol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph-dark.svg">
@@ -34,23 +37,6 @@ I am a Computer Science student with a keen interest in the Internet of Things (
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-
-
-<!--
-**ChristianHutagaol/ChristianHutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning Python
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ChristianHutagaol/count.svg?"  />
+</div>
