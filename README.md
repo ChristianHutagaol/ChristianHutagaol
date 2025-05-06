@@ -32,6 +32,8 @@ I am a Computer Science student with a keen interest in the Internet of Things (
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChristianHutagaol/ChristianHutagaol/output/pacman-contribution-graph.svg">
 </picture>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianHutagaol&repo=Final-Project-2&theme=blue-green)](https://github.com/ChristianHutagaol/Final-Project-2)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChristianHutagaol/count.svg?"  />
 </div>
